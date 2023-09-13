@@ -1,0 +1,5 @@
+/emscripten-builder/emsdk/upstream/bin
+/emscripten-builder/emsdk/upstream/emscripten
+
+/workspaces/emscripten-builder/emsdk/upstream/bin
+/workspaces/emscripten-builder/emsdk/upstream/emscripten
